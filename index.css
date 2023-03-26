@@ -1,0 +1,32 @@
+/* Set the background color to light blue */
+body {
+    background-color: seagreen;
+  }
+  
+  /* Set the font family to sans-serif and font size to 16px */
+  p {
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Set the color of all links to dark blue */
+  a {
+    color: #00008B;
+  }
+  
+  /* Set the color of all headings to red and font size to 24px */
+  h1, h2, h3 {
+    color: red;
+    font-size: 24px;
+  }
+  
+  /* Set the color of all buttons to green */
+  button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+  }
+  
